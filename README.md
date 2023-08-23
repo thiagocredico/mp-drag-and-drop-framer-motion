@@ -31,6 +31,8 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar s
 
 🔗[Link do Figma](https://www.figma.com/community/file/1273711237095306477)
 
+![Design Sugerido](https://codante.s3.sa-east-1.amazonaws.com/challenges/readme-images/drag-and-drop-com-react-e-framer-motion.png)
+
 ## 👉🏽 Sobre esse mini-projeto
 
 ### Tecnologias sugeridas
