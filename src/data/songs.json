@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "duration": "3:54",
+    "image": "/albums/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "duration": "4:31",
+    "image": "/albums/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Despacito",
+    "artist": "Luis Fonsi ft. Daddy Yankee",
+    "duration": "3:48",
+    "image": "/albums/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "See You Again",
+    "artist": "Wiz Khalifa ft. Charlie Puth",
+    "duration": "3:58",
+    "image": "/albums/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "duration": "3:20",
+    "image": "/albums/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "duration": "3:55",
+    "image": "/albums/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "duration": "3:42",
+    "image": "/albums/7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "duration": "4:17",
+    "image": "/albums/8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "duration": "4:41",
+    "image": "/albums/9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Closer",
+    "artist": "The Chainsmokers ft. Halsey",
+    "duration": "4:05",
+    "image": "/albums/10.jpg"
+  }
+]
